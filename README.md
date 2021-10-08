@@ -29,4 +29,4 @@
  
 ---
 
-![Banner](https://zupimages.net/up/21/37/ifd6.gif)
+![Banner](https://cdn.discordapp.com/attachments/820367515350728727/894635493810139196/167394.gif)

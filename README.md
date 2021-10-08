@@ -9,7 +9,7 @@
 <br><br>
 
 <h1><p align="center">
- - :tools: I am a Belgian developer.<br>
+ - 🛠️ I am a Belgian developer.<br>
  - :computer: I am currently working on my "DscApp" project.<br>
  - :cake: I am currently learning php.
 </h1>

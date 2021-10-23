@@ -29,4 +29,4 @@
  
 ---
 
-![Banner](https://cdn.discordapp.com/attachments/820367515350728727/894635493810139196/167394.gif)
+<div align="center"><img src="https://cdn.discordapp.com/attachments/820367515350728727/894635493810139196/167394.gif" /></div>

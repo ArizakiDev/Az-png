@@ -23,7 +23,7 @@
 </p>
 
 
-<div align="center"><img src="https://cdn.discordapp.com/avatars/820360564219707392/a_ff8347e99f3b57c9d036acb3b55f57f8.gif" /></div>
+<div align="center"><img src="https://cdn.discordapp.com/avatars/820360564219707392/a_ec55b010739279065986d0b197dd05f7.gif?size=2048" /></div>
 
 
  

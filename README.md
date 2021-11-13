@@ -10,8 +10,8 @@
 
 <h1><p align="center">
  - 🛠️ I am a Belgian developer.<br>
- - :computer: I am currently working on my "DscApp" project.<br>
- - :cake: I am currently learning php.
+ - :computer: I am currently working on my "View Hours" project.<br>
+ - :cake: I am currently learning C++.
 </h1>
 
 ---

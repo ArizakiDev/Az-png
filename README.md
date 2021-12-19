@@ -1,6 +1,6 @@
 <h1><p align="center"><img src="https://i.imgur.com/jo5Z5JE.gif" width="30"/> Hi there, I am Arizaki.</h1>
 
-
+[![](https://discord.c99.nl/widget/theme-4/696481194443014174.png)](https://discord.com/users/820360564219707392)
 
 <img align="right" alt="Arizaki Github Stats" src="https://github-readme-stats.vercel.app/api?username=Oreki-ASTRAL&theme=tokyonight&show_icons=true&hide_border=true" />
 

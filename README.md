@@ -19,19 +19,3 @@
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 
----
-
-<p align="center">
-   <a href="https://discord.com/users/820360564219707392" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://open.spotify.com/user/bicc9ar16gw92ro1wil1n65rx" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-   <a href="https://github.com/Oreki-ASTRAL" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
-
-<div align="center"><img src="https://cdn.discordapp.com/avatars/820360564219707392/a_ec55b010739279065986d0b197dd05f7.gif?size=2048" /></div>
-
-
- 
----
-
-<div align="center"><img src="https://cdn.discordapp.com/attachments/820367515350728727/894635493810139196/167394.gif" /></div>

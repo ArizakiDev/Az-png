@@ -20,8 +20,10 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 <img align="left" alt="GitHub" width="30px" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="GitHub" width="30px" src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true" />
+<br>
 
 ---
 
-https://profile-counter.glitch.me/Oreki-ASTRAL/count.svg
+<img align="right" alt="Arizaki Github Stats" src="https://profile-counter.glitch.me/Oreki-ASTRAL/count.svg"/>
+
 

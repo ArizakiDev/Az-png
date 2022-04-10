@@ -21,3 +21,7 @@
 <img align="left" alt="GitHub" width="30px" src="https://github.com/github/explore/blob/main/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="GitHub" width="30px" src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true" />
 
+---
+
+https://profile-counter.glitch.me/Oreki-ASTRAL/count.svg
+

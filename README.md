@@ -8,7 +8,7 @@
 
 <br><br>
 
-[![](https://discord.c99.nl/widget/theme-3/820360564219707392.png)](https://discord.com/users/820360564219707392)
+[![](https://discord.c99.nl/widget/theme-2/641587689564667914.png)](https://discord.com/users/641587689564667914)
 
 ### Mes aide au travaille~
 <img align="left" alt="TypeScript" width="30px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" />

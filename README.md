@@ -10,7 +10,7 @@
 
 [![](https://discord.c99.nl/widget/theme-2/641587689564667914.png)](https://discord.com/users/641587689564667914)
 
-### Mes aide au travaille~
+### Mes aides au travaille~
 <img align="left" alt="TypeScript" width="30px" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />

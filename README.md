@@ -21,7 +21,6 @@
 <img align="left" alt="python" width="30px" src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true" />
 <img align="left" alt="bulma" width="30px" src="https://github.com/github/explore/blob/main/topics/bulma/bulma.png?raw=true" />
 <img align="left" alt="Java" width="30px" src="https://github.com/github/explore/blob/main/topics/java/java.png?raw=true" />
-<img align="left" alt="Kotlin" width="30px" src="https://github.com/github/explore/blob/main/topics/Kotlin/Kotlin.png?raw=true" />
 
 <br>
 

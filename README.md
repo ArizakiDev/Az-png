@@ -21,6 +21,8 @@
 <img align="left" alt="Java" width="30px" src="https://github.com/github/explore/blob/main/topics/java/java.png?raw=true" />
 
 <br>
+<br>
+<br>
 
 [![](https://discord.c99.nl/widget/theme-2/641587689564667914.png)](https://discord.com/users/641587689564667914)
 

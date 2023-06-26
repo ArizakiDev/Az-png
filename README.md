@@ -30,6 +30,6 @@
 
 ---
 
-<img align="center" alt="Arizaki Github Stats" src="https://profile-counter.glitch.me/Oreki-ASTRAL/count.svg"/>
+<img align="center" alt="Arizaki Github Stats" src="https://profile-counter.glitch.me/Az-png/count.svg"/>
 
 

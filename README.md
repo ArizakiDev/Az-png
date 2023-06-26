@@ -2,9 +2,9 @@
 
 
 
-<img align="right" alt="Arizaki Github Stats" src="https://github-readme-stats.vercel.app/api?username=Oreki-ASTRAL&theme=tokyonight&show_icons=true&hide_border=true" />
+<img align="right" alt="Arizaki Github Stats" src="https://github-readme-stats.vercel.app/api?username=Az-png&theme=tokyonight&show_icons=true&hide_border=true" />
 
-![Your Repository's Stats]( https://github-readme-stats.vercel.app/api/top-langs/?username=Oreki-ASTRAL&theme=tokyonight )
+![Your Repository's Stats]( https://github-readme-stats.vercel.app/api/top-langs/?username=Az-png&theme=tokyonight )
 
 <br><br>
 
